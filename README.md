@@ -16,7 +16,7 @@ This bot answers questions about football tactical analysis using your match dat
    - Select the file you just downloaded
 
 4. **Run all cells:**
-   - Click **Runtime** → **Run all**
+   - Click **Runtime** → **Run all** (( run cell after cell orderly ))
    - Wait 2-3 minutes for installation
 
 5. **Upload your data** when prompted:
