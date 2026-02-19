@@ -5,16 +5,26 @@ This bot answers questions about football tactical analysis using your match dat
 
 ## 🚀 Quick Start (2 minutes)
 
-1. **Open in Colab:**  
-   [![Open In Colab][(https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR-USERNAME/tactical-analysis-bot/blob/main/tactical_bot.ipynb)](https://colab.google/)
+### Option 1: Run in Colab (Easiest - No installation)
 
-2. **Click "Runtime" → "Run all"**
+1. **Download** this notebook: Click the ⬇️ button above and select "Download"
 
-3. **Upload your JSON file** when prompted
+2. **Go to** [Google Colab](https://colab.research.google.com)
 
-4. **Click the Gradio link** that appears
+3. **Upload** the downloaded notebook:
+   - Click **File** → **Upload notebook**
+   - Select the file you just downloaded
 
-5. **Start asking questions!**
+4. **Run all cells:**
+   - Click **Runtime** → **Run all**
+   - Wait 2-3 minutes for installation
+
+5. **Upload your data** when prompted:
+   - Click "Choose File" and select your `team_shape_summary.json`
+
+6. **Click the Gradio link** that appears at the end
+
+7. **Start asking questions!**
 
 ## 📊 Example Questions
 - "What formation did team B use in final attack?"
