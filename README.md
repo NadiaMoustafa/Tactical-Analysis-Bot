@@ -29,10 +29,9 @@ This bot answers questions about football tactical analysis using your match dat
 ## 📊 Example Questions
 - "What formation did team B use in final attack?"
 - "How wide was team A's defense?"
-- "Compare gaps between lines"
+- or any question you want !
 
-## 🛠️ Tech Stack
-- Sentence Transformers (embeddings)
-- ChromaDB (vector search)
-- Gradio (UI)
-- Google Colab (hosting)
+## ⏱️ Expected Time
+- Total runtime: 3-5 minutes
+
+* Also, when you open the notebook in Colab, you will see the instruction.
