@@ -6,7 +6,7 @@ This bot answers questions about football tactical analysis using your match dat
 ## 🚀 Quick Start (2 minutes)
 
 1. **Open in Colab:**  
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR-USERNAME/tactical-analysis-bot/blob/main/tactical_bot.ipynb)
+   [![Open In Colab][(https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR-USERNAME/tactical-analysis-bot/blob/main/tactical_bot.ipynb)](https://colab.google/)
 
 2. **Click "Runtime" → "Run all"**
 
